@@ -1,12 +1,5 @@
-# Search Engine Project - DSA
+# Search Engine Project
 A search engine roughly based on the paper [*The Anatomy of a Large-Scale Hypertextual Web Search Engine*](http://infolab.stanford.edu/~backrub/google.html) by Sergey Brin and Lawrence Page
-
-## Group Members
-| Name                     | CMS ID |
-|--------------------------|--------|
-| A. Aftab Akhtar          | 244301 |
-| B. Usama Ahmed Siddiquie | 241886 |
-| C. Muhammad Ali          | 266079 |
 
 ---
 
