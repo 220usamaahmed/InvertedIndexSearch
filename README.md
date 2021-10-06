@@ -1,5 +1,5 @@
 # Search Engine Project
-A search engine roughly based on the paper [*The Anatomy of a Large-Scale Hypertextual Web Search Engine*](http://infolab.stanford.edu/~backrub/google.html) by Sergey Brin and Lawrence Page
+A search engine roughly based on the paper [*The Anatomy of a Large-Scale Hypertextual Web Search Engine*](http://infolab.stanford.edu/~backrub/google.html) by Sergey Brin and Lawrence Page. It doesn't have Page Rank implemented.
 
 ---
 
